@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter-Regular.woff') format('woff'),
-        url('/fonts/Inter-Regular.woff2') format('woff2');
+    src: url('/davaleba/davaleba-7-7/fonts/Inter-Regular.woff') format('woff'),
+        url('/davaleba-7/fonts/Inter-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
@@ -9,8 +9,8 @@
 
 @font-face {
     font-family: 'Work Sans';
-    src: url('/fonts/WorkSans-Regular.woff2') format('woff2'),
-        url('/fonts/WorkSans-Regular.woff') format('woff');
+    src: url('/davaleba-7/fonts/WorkSans-Regular.woff2') format('woff2'),
+        url('/davaleba-7/fonts/WorkSans-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
