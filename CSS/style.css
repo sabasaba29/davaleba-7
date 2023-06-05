@@ -62,7 +62,7 @@ header {
 .section_1_div {
     position: absolute;
     top: 280px;
-    width: 70%;
+    width: 69%;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -112,7 +112,7 @@ h2 {
 /* section_2 */
 .section_2 {
     width: 70%;
-    margin: 245px auto;
+    margin: 345px auto;
 }
 
 h3 {
@@ -184,5 +184,5 @@ h4 {
     border-radius: 60px;
     font-weight: 700;
     font-size: 16px;
-    background: #DCB47A; 
+    background: #DCB47A;
 }
